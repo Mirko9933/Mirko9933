@@ -1,9 +1,5 @@
 - 👋 Hi, I’m @Mirko9933
-- 👀 I’m interested in guys
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on star
-- 📫 How to reach me hoff nicht
-- 😄 Pronouns: she/her
+- 👀 I’m interested in a Job
 - ⚡ Fun fact: Im a nice guy
 
 <!---
