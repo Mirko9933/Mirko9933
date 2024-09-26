@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mirko9933
 - 👀 I’m interested in a Java
-- ⚡ Fun fact: ✨
+- ⚡ Fun fact: Im a p✨
 
 <!---
 Mirko9933/Mirko9933 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
